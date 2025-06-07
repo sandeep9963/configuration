@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIS"
+  contactDetails:
+    name: "rahul-Doe Product Owner"
+    email: "rahul345@gmail.com"
+  onCallSupports:
+    - (777) 000-1234
+    - (777) 087-1345
