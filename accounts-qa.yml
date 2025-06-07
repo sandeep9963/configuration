@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIS"
   contactDetails:
     name: "Smita-Doe Developer"
-    email: "smita345@gmail.com"
+    email: "{cipher}6fa56b193bd8c71530d0457a8d856bece0434647566c53684d04d914e57afa7d4a97c591d5af9aad457923260f592258"
   onCallSupports:
     - (666) 265-3765
     - (666) 734-8371
