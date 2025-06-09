@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIS"
+  message: "Welcome to EazyBank accounts related docker QA APIS"
   contactDetails:
     name: "Smita-Doe Developer"
     email: "{cipher}6fa56b193bd8c71530d0457a8d856bece0434647566c53684d04d914e57afa7d4a97c591d5af9aad457923260f592258"
